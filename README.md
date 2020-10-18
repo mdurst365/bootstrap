@@ -4,19 +4,19 @@
 - [] Create the following files files: index.html, portfolio.html and contact.html
 - [] Portfolio site must include: a navbar, a responsive layout and responsive images
 - [] The Bootstrap portfolio should minimize the use of media queries.
-- [] Use Bootstrap's grid system (containers, rows, and columns)
-- [] On an xs screen, content should take up the entire screen.
-- [] On sm and larger screens, have some margins on the left and right sides of the screen.
+- [x] Use Bootstrap's grid system (containers, rows, and columns)
+- [x] On an xs screen, content should take up the entire screen.
+- [x] On sm and larger screens, have some margins on the left and right sides of the screen.
 - [x] GitHub repository with README describing the project
 - [x] Navbar must be consistent on each page.
 - [x] Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
 - [] All links must work.
-- [] Must use semantic html.
+- [x] Must use semantic html.
 - [] Each page must have valid and correct HTML. (use a validation service)
-- [] Must contain your personalized information. (bio, name, images, links to social media, etc.)
-- [] Must properly utilize Bootstrap components and grid system. 
-- [] BONUS: Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (Hint: Check out the Bootstrap documentation).
-
+- [x] Must contain your personalized information. (bio, name, images, links to social media, etc.)
+- [x] Must properly utilize Bootstrap components and grid system. 
+- [x] BONUS: Using Bootstrap, make a sticky footer 
+- [] BONUS: Use sub-rows and sub-columns on your portfolio site
 
 ## Validation Resources
 will validate through https://achecker.ca/checker/index.php 
