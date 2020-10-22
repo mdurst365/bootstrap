@@ -20,9 +20,7 @@
 
 ## Validation Resources
 [x] validated through https://achecker.ca/checker/index.php 
-will validate html through  through https://validator.w3.org/
-will validate css through  https://validator.w3.org/ and found no errors
-will also validate css through  through http://csslint.net/
+[x] validated html through  through https://validator.w3.org/
 
 ## MIT License
 
