@@ -16,11 +16,11 @@
 - [x] Must contain your personalized information. (bio, name, images, links to social media, etc.)
 - [x] Must properly utilize Bootstrap components and grid system. 
 - [x] BONUS: Using Bootstrap, make a sticky footer 
-- [] BONUS: Use sub-rows and sub-columns on your portfolio site
+- [X] BONUS: Use sub-rows and sub-columns on your portfolio site
 
 ## Validation Resources
 [x] validated through https://achecker.ca/checker/index.php 
-[x] validated html through  through https://validator.w3.org/
+[x] validated html through https://validator.w3.org/
 
 ## MIT License
 
