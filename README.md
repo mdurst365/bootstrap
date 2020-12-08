@@ -20,6 +20,7 @@
 
 ## Validation Resources
 [x] validated through https://achecker.ca/checker/index.php 
+
 [x] validated html through https://validator.w3.org/
 
 ## MIT License
